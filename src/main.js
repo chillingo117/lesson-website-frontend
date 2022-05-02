@@ -8,6 +8,7 @@ import titleMixin from "@/common/titleMixin";
 
 import '@mdi/font/css/materialdesignicons.min.css'
 
+
 Vue.config.productionTip = false
 Vue.use(VueRouter);
 Vue.mixin(titleMixin);
